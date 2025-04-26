@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/ .
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# My files
+BTS/
+
+sperm.py
+database.py
+init_db.sql
+emgovno.pyB
+panda.py
+partners.db
+read_dir.py
